@@ -1,3 +1,11 @@
 # Team-Recipe-Book
 Our team's favorite recipes
 mkdir team-recipe-book
+cd team-recipe-book
+git init
+echo "# Team Recipe Book" > README.md
+git add README.md
+git commit -m "Initial commit"
+# Create repo on GitHub.com first, then:
+git remote add origin https://github.com/YOUR_USERNAME/team-recipe-book.git
+git push -u origin main
