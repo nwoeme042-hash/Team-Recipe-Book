@@ -7,5 +7,5 @@ echo "# Team Recipe Book" > README.md
 git add README.md
 git commit -m "Initial commit"
 # Create repo on GitHub.com first, then:
-git remote add origin https://github.com/YOUR_USERNAME/team-recipe-book.git
+git remote add origin https://github.com/YOUR_USERNAME/Team-Recipe-Book.git
 git push -u origin main
