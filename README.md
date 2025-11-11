@@ -9,3 +9,5 @@ git commit -m "Initial commit"
 # Create repo on GitHub.com first, then:
 git remote add origin https://github.com/YOUR_USERNAME/Team-Recipe-Book.git
 git push -u origin main
+git clone https://github.com/OWNER_USERNAME/Team-Recipe-Book.git
+cd Team-Recipe-Book
